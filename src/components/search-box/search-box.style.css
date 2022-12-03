@@ -1,0 +1,19 @@
+.search-box {
+    -webkit-appearance: none;
+    border: 5px ridge darkblue;
+    border-radius: 20px;
+    outline: none;
+    padding: 10px;
+    width: 170px;
+    line-height: 30px;
+    margin-bottom: 50px;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+  }
+
+  input::placeholder {
+    color: black;
+    font-size: 30px;
+    font-family: 'Bigelow Rules', cursive;
+  }
